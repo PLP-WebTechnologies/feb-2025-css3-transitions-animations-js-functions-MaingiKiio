@@ -21,3 +21,8 @@ Store data in localStorage.
 Apply JavaScript to trigger animations.
 
 Happy Coding! 💻✨
+
+## About the submission
+
+Light Theme: Bright background with dark text.
+Dark Theme: Dark background with light text.
